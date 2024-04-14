@@ -2,8 +2,6 @@
 
 This repo consists of a source code of a Python script which detects plagiarism in a textual document using **cosine similarity**.
 
-[![Become a patron](pictures/become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
-
 ## How is it Done?
 
 You might be wondering how plagiarism detection on textual data is done, well it ain't as complicated as you may think.
@@ -63,6 +61,4 @@ If you have something to add, I welcome pull requests on improvement; your helpf
 
 If you find this repo useful, give it a star so that many people can get to know it.
 
-## Credits
-
-All the credit goes to [kalebu](https://github.com/kalebu).
+Referrence: [kalebu](https://github.com/kalebu).
